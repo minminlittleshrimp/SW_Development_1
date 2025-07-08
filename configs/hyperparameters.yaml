@@ -1,0 +1,10 @@
+learning_rate: 0.001
+batch_size: 32
+num_epochs: 50
+dropout_rate: 0.5
+optimizer: 'adam'
+loss_function: 'categorical_crossentropy'
+metrics:
+  - 'accuracy'
+  - 'precision'
+  - 'recall'
