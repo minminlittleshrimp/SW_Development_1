@@ -1,0 +1,5 @@
+2025-07-29 04:06:03,424 - MedicalWorkflow - INFO - Starting Medical Workflow - Log file: /home/mluu/work/SW_Development_1/ragas-pipeline-demo/src/../logs/workflow_20250729_040603.log
+2025-07-29 04:06:03,425 - MedicalWorkflow - INFO - [Setup] Configuring Hugging Face authentication...
+2025-07-29 04:06:03,443 - MedicalWorkflow - INFO - [Setup] HF token loaded from local file
+2025-07-29 04:06:03,443 - MedicalWorkflow - INFO - Initializing Medical Workflow components
+2025-07-29 04:06:03,743 - root - INFO - FastPlaid is not installed.If you want to use it:Instal with `pip install --no-deps fast-plaid fastkmeans`
